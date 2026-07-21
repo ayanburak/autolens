@@ -1,0 +1,1 @@
+"""Faster R-CNN modelinin eğitim döngüsü."""
